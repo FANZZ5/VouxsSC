@@ -8639,7 +8639,7 @@ Window:Tag({
 })
 
 Window:EditOpenButton({
-    Title = "Vouxs - Fish It",
+    Title = "Vouxs - SCRIPT",
     Icon = "star",
     CornerRadius = UDim.new(0,30),
     StrokeThickness = 1.5,
