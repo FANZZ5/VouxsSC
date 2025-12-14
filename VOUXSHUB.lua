@@ -4741,7 +4741,7 @@ do
             return l
         end
         
-        txt("KAITUN PAHAJI (PREMIUM)", 0.2, Color3.fromRGB(255,0,255), 35)
+        txt("KAITUN Vouxs (PREMIUM)", 0.2, Color3.fromRGB(255,0,255), 35)
         local lLC = txt("Last Catch: None", 0.3, Color3.fromRGB(0,255,255))
         local lCoins = txt("Coins: ...", 0.4, Color3.fromRGB(255,215,0))
         local lGear = txt("Best Rod: ... | Best Bait: ...", 0.45) 
@@ -8040,7 +8040,7 @@ do
 
     -- Variabel lokal untuk menyimpan data
     local WEBHOOK_URL = ""
-    local WEBHOOK_USERNAME = "Pahaji Notify" 
+    local WEBHOOK_USERNAME = "Vouxs Notify" 
     local isWebhookEnabled = false
     local SelectedRarityCategories = {}
     local SelectedWebhookItemNames = {} -- Variabel baru untuk filter nama
